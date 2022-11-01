@@ -1,0 +1,6 @@
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.exe.config
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.exe
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.pdb
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.exe
+C:\Users\4401\Desktop\Html_Css_BootCamp\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.pdb
